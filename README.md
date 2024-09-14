@@ -2,6 +2,7 @@
 Repositorio del Grupo C
 
 ---
+**Coordinador:** Juan Mock (maicc)
 
 ## Clonar-Repositorio
 
